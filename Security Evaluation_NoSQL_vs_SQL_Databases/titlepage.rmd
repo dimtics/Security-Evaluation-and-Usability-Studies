@@ -1,0 +1,42 @@
+---
+output: pdf_document
+---
+
+\begin{centering}
+
+\vspace{3 cm}
+
+\Huge
+
+{\bf A SECURITY EVALUATION OF RELATIONAL AND NONRELATIONAL (NoSQL) DATABASE SYSTEMS}
+
+\vspace{3 cm}
+
+\Large
+OLADIMEJI SALAU
+
+(40018905)
+
+\vspace{3 cm}
+
+
+\normalsize
+SECURITY EVALUATION METHODOLOGIES (INSE 6150) ASSIGNMENT
+
+
+
+\vspace{3 cm}
+
+\normalsize
+CONCORDIA INSTITUTE OF INFORMATION SYSTEMS ENGINEERING (CIISE)
+
+\normalsize
+CONCORDIA UNIVERSITY, MONTREAL, CANADA.
+
+
+\vspace{3 cm}
+
+\normalsize
+FEBRUARY 2017
+
+\end{centering}
